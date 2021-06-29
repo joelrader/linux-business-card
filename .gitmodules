@@ -1,0 +1,3 @@
+[submodule "electronics/board/3340_kicad"]
+	path = electronics/board/3340_kicad
+	url = https://github.com/thirtythreeforty/3340_kicad
