@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name footprints)(type KiCad)(uri ${KIPRJMOD}/3340_kicad/footprints)(options "")(descr ""))
+  (lib (name pcb_usb)(type KiCad)(uri ${KIPRJMOD}/pcb_usb.pretty)(options "")(descr ""))
 )
