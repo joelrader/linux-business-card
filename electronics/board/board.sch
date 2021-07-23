@@ -1180,13 +1180,13 @@ Wire Wire Line
 Wire Wire Line
 	6900 5550 6850 5550
 Text Label 6850 5450 2    50   ~ 0
-USB_DP
+USB_P
 Text Label 6850 5550 2    50   ~ 0
-USB_DM
+USB_N
 Text Label 8550 6850 0    50   ~ 0
-USB_DP
+USB_P
 Text Label 8550 7800 0    50   ~ 0
-USB_DM
+USB_N
 $Comp
 L power:GND #PWR032
 U 1 1 60FF7796
