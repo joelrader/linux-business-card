@@ -1,5 +1,6 @@
 # linux-business-card
 ![](media/board.png)
+
 A business card that runs Linux!
 
 ## Components
